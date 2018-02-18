@@ -15,6 +15,9 @@ You can simply copy all code snippets (`.codesnippet`) into this folder, restart
 
 Note: Create the folder if it doesn't exist already. It is created by Xcode when user adds his first custom snippet.
 
+Alternatively, you can automate this process by running the import script:
+```$ sh import_snippets.sh```
+
 ## Usage
 I named all snippets using scheme `Swift ...` and set all Completion Shortcuts to `swift-...` so each time you type `swift` in code editor you should see all snippets you can use in that place.
 
